@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+}
+
+.header{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+    color: darkslateblue;
+}
+
+p{
+    color: orange;
+}
+
+li{
+    color: gold;
+}
+
+.headerthree{
+    color: blue;
+}
+
+.headertwo{
+    color: darkmagenta;
+}

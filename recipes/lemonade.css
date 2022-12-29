@@ -1,0 +1,18 @@
+body{
+    background-color: greenyellow;
+}
+
+
+
+.lemonade{
+    font-size: 700;
+    color: rgb(156, 156, 156);
+    text-align: center;
+    text-decoration:underline;
+}
+
+.list{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
